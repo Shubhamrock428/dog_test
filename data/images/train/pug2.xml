@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>pug2.png</filename>
+    <path>images/pug2.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>503</width>
+        <height>344</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>unlabelled</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>40</xmin>
+            <ymin>27</ymin>
+            <xmax>489</xmax>
+            <ymax>316</ymax>
+        </bndbox>
+    </object>
+</annotation>

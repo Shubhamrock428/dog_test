@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>download.png</filename>
+    <path>images/download.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>503</width>
+        <height>407</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>unlabelled</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>124</xmin>
+            <ymin>30</ymin>
+            <xmax>469</xmax>
+            <ymax>364</ymax>
+        </bndbox>
+    </object>
+</annotation>
